@@ -16,7 +16,7 @@
 }
 
 .main {
-    height: 400svh;
+    height: 360svh;
     width: calc(100vw-30px);
     background-color: var(--white);
     display: flex;
